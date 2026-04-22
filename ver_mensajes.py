@@ -18,7 +18,7 @@ def ver_mensajes():
             print(f"Contenido: {fila[1]}")
             print(f"Fecha: {fila[2]}")
             print(f"IP: {fila[3]}")
-            print("-" *git  30)
+            print("-" *  30)
 
         conexion.close()
 
